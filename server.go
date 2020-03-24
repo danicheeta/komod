@@ -4,4 +4,4 @@ type Hello struct {
 	Name string
 }
 
-var Asd = Hello{"hashem1"}
+var Asd = Hello{"hashem2"}
